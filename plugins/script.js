@@ -12,17 +12,12 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let repo =`
 *╭──────────────●●►*
-> *BOT OWNER:*
-*|* *SILENTLOVER432*
+sy4m.vercrl.app
 
-> *SILENT-SOBX-MD REPO:*
-*|* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
-
-> *SUPPORT GROUP:*
-*|* *https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
+oomb😂
 *╰──────────────●●►*
 
-> *POWERED BY SILENTLOVER432*
+> *POWERED BY 𝗦𝗞𝗦 𝙱ᷤ𝙾ᷜ𝚃ᷤ*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -32,15 +27,15 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "SILENTLOVER432",
+      newsletterName: "𝗦𝗞𝗦 𝙱ᷤ𝙾ᷜ𝚃ᷤ",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SILENT-SOBX-MD',
+title: 'sks bot😂',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/SILENTLOVER40/SILENT-SOBX-MD" ,
-thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg" ,
+sourceUrl: "https://sy4m.vercel.app" ,
+thumbnailUrl: "https://graph.org/file/14c9e1c99f5f2b1ad693d.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
